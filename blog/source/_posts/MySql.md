@@ -2,6 +2,7 @@
 title: MySql学习笔记
 date: 2023-03-23 18:58:56
 tags:
+cover: https://labs.mysql.com/common/themes/sakila/banners/b1280-mysql-mds-aws-azure5.en.jpg
 ---
 1.登录
 2.USE db_name(数据库名称);

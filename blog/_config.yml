@@ -103,10 +103,10 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
+  type: 'git'
 #  repo: https://github.com/fuweiliang/Xiaofu.github.io.git
   repo: https://github.com/fuweiliang/fuweiliang.github.io.git
 #  root: git@github.com:fuweiliang/Xiaofu.github.io.git
-  root: git@github.com:fuweiliang/fuweiliang.github.io.git
+#  root: git@github.com:fuweiliang/fuweiliang.github.io.git
   branch: master
-  message: '新增说说部分'
+  message: '完善导航栏'
