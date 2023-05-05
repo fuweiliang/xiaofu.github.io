@@ -3,7 +3,7 @@
 # Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 回忆
+title: 执念
 subtitle: '欢迎~~'
 description: ''
 keywords:
@@ -102,11 +102,13 @@ theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+#  repo: https://github.com/fuweiliang/Xiaofu.github.io.git
+#  root: git@github.com:fuweiliang/Xiaofu.github.io.git
 deploy:
   type: git
-#  repo: https://github.com/fuweiliang/Xiaofu.github.io.git
   repo: https://github.com/fuweiliang/fuweiliang.github.io.git
-#  root: git@github.com:fuweiliang/Xiaofu.github.io.git
   root: git@github.com:fuweiliang/fuweiliang.github.io.git
   branch: master
-  message: '新增说说部分'
+#  如果出现发布需要登陆GITHUB账号那就是密钥要重新生成和授权了，因为过了·30天有效期
+#到github把密钥重新生成一下
+#然后再次发布用户名为fuweiliang密码就是刚才复制下来的密钥然后就可以成功发布了
