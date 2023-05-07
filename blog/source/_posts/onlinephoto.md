@@ -2,13 +2,14 @@
 
 title: 高三16班的电子相册
 date: 2023-02-08 16:39:10
-tags: "相册后续整理上线中，请耐心等待"
+tags: "上线完毕"
 cover: https://s2.loli.net/2023/03/16/t6L2SYoQAqjBuvC.jpg
 ---
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5240550&auto=1&height=66"></iframe>
 
-好久不见了大家，想起高中生活中的点点滴滴，现在依然觉得很美好，所以出于对回忆相册的便捷性，于是我把高中电子相册做成了网站，方便大家随时随地的查看电子相册，此网站一经发布上线永久在线！永久免费！可随时更新。虽然耗费较多精力，但是当回忆涌上心头还是很美好的。
+**
+好久不见了大家，想起高中生活中的点点滴滴，现在依然觉得很美好，所以出于对回忆相册的便捷性，于是我把高中电子相册做成了网站，方便大家随时随地的查看电子相册，此网站一经发布上线永久在线！永久免费！可随时更新。虽然耗费较多精力，但是当回忆涌上心头还是很美好的。**
 
 ## 首先是我们得全体视频
 
@@ -19,6 +20,7 @@ style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe
 {% endraw %}
 
 ### 然后是我们亲爱的老师们
+
 ![](https://s2.loli.net/2023/03/16/IDNlHBjtiQ36Xwp.jpg)
 ![](https://s2.loli.net/2023/03/16/DiG2Ja6s37myZkC.jpg)
 ![](https://s2.loli.net/2023/03/16/rXqV4vd5LYj7myE.jpg)
@@ -31,19 +33,23 @@ style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe
 ![](https://s2.loli.net/2023/03/16/k9FN41lqVTH7d3Z.jpg)
 ![](https://s2.loli.net/2023/03/16/6VhtRSf5aKkBcFT.jpg)
 ![](https://s2.loli.net/2023/03/16/ntdz82xirI4OvT6.jpg)
+
 ### 百日誓师
+
 ![](https://s2.loli.net/2023/03/17/YskKLDArNZ5XIOU.jpg)
 ![](https://s2.loli.net/2023/03/17/gSt4LyNpkqVMzjB.jpg)
 ![](https://s2.loli.net/2023/03/17/tlsRmqFXxg17yHk.jpg)
+
 ### 元旦汇演
+
 ![](https://imgse.com/i/ppt68mV)
 ![](https://imgse.com/i/ppt6ckD)
 ![](https://imgse.com/i/ppt6GwT)
 ![](https://imgse.com/i/ppt6tkF)
 ![](https://imgse.com/i/ppt61O0)
 
-
 ### 我们全体的照片
+
 ![jpg](https://s2.loli.net/2023/03/17/yj5aXPY174swRLW.jpg)
 ![jpg](https://s2.loli.net/2023/03/17/s7HpB5R6VgGhF4D.jpg)
 ![jpg](https://s2.loli.net/2023/03/17/2V6EXFPr8wtGvLS.jpg)
@@ -120,8 +126,9 @@ style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe
 ![](https://s2.loli.net/2023/03/17/RtabAwUq1Co7gdV.jpg)
 
 ### 最后是我们全体名单
+
 |     |     |
-|-----| --- |
+|:---:|:---:|
 | 钟明光 | 丁禄  |
 | 樊佳伟 | 汪梦瑶 |
 | 胡思敏 | 涂子祥 |
