@@ -752,12 +752,12 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-github
-      text: Follow Me
-      link: https://gitee.com/fuweiliang/fuweiliang.gitee.io.git
+      icon: fas fa-envelope
+      text: 写信
+      link: mailto:2194094699@qq.com || Email
   card_announcement:
     enable: true
-    content: 欢迎大家~
+    content: 可点击右上角关于我有好东西嘻嘻~欢迎大家~
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
