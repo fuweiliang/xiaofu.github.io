@@ -757,7 +757,7 @@ aside:
       link: mailto:2194094699@qq.com
   card_announcement:
     enable: true
-    content: 右上角关于我有好东西，hhh 欢迎大家~
+    content: 右上角关于我有好东西,欢迎大家~
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
