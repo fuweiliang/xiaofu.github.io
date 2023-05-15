@@ -41,7 +41,7 @@ copy:
 #   icon: link || the description
 social:
  fab fa-github: https://github.com/fuweiliang/fuweiliang.github.io.git || Github
- fas fa-envelope: mailto:2194094699@qq.com
+ fas fa-envelope: mailto:2194094699@qq.com || Email
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -754,7 +754,7 @@ aside:
       enable: true
       icon: fas fa-envelope
       text: 写信
-      link: mailto:2194094699@qq.com || Email
+      link: mailto:2194094699@qq.com
   card_announcement:
     enable: true
     content: 右上角关于我有好东西，hhh 欢迎大家~
