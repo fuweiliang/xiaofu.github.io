@@ -8,8 +8,7 @@ cover: https://s2.loli.net/2023/03/16/t6L2SYoQAqjBuvC.jpg
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5240550&auto=1&height=66"></iframe>
 
-**
-好久不见了大家，想起高中生活中的点点滴滴，现在依然觉得很美好，所以出于对回忆相册的便捷性，于是我把高中电子相册做成了网站，方便大家随时随地的查看电子相册，此网站一经发布上线永久在线！永久免费！可随时更新。虽然耗费较多精力，但是当回忆涌上心头还是很美好的。**
+**好久不见了大家，想起高中生活中的点点滴滴，现在依然觉得很美好，所以出于对回忆相册的便捷性，于是我把高中电子相册做成了网站，方便大家随时随地的查看电子相册，此网站一经发布上线永久在线！永久免费！可随时更新。虽然耗费较多精力，但是当回忆涌上心头还是很美好的。**
 
 ## 首先是我们得全体视频
 
@@ -175,6 +174,7 @@ style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe
 链接：[https://pan.baidu.com/s/18uvOjj4SJVZzThYCpTk12w?pwd=1616](https://pan.baidu.com/s/18uvOjj4SJVZzThYCpTk12w?pwd=1616)
 提取码：1616
 复制这段内容后打开百度网盘手机App，操作更方便哦
+
 {%raw %}
 <iframe height="350px" width="100%" src="https://form.antdv.com/r/64ba5849897900d6" frameborder="0" allowfullscreen></iframe>
 {% endraw %}
