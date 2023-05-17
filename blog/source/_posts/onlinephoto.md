@@ -5,16 +5,45 @@ date: 2023-02-08 16:39:10
 tags: "上线完毕"
 cover: https://s2.loli.net/2023/03/16/t6L2SYoQAqjBuvC.jpg
 ---
-
+# 曹老师的话
+**各位同学：高三我们一起奋斗，一路欢歌笑语，留下了许多难以忘怀的印记。现在你们即将迈进大学，开始你们一段精彩的人生旅程，希望你们能扎扎实实学习，提高自已各方面能力，为展翅高飞作好准备。请谨记英才高三16班是你永远的家。❤**
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5240550&auto=1&height=66"></iframe>
-
+## 作者的话
 **好久不见了大家，想起高中生活中的点点滴滴，现在依然觉得很美好，所以出于对回忆相册的便捷性，于是我把高中电子相册做成了网站，方便大家随时随地的查看电子相册，此网站一经发布上线永久在线！永久免费！可随时更新。虽然耗费较多精力，但是当回忆涌上心头还是很美好的。**
+*可以访问新配置的网站*
+1.[fuweiliang.eu.org](fuweiliang.eu.org)
+2.[www.fuweiliang.eu.org](www.fuweiliang.eu.org)
 
 ## 首先是我们得全体视频
 
 {%raw %}
 
 <div style="position: relative; width:100%; height: 0; padding-bottom:75%; "><iframe src="//player.bilibili.com/player.html?aid=864055119&bvid=BV1Z54y1P7Az&cid=998414853&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
+style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>
+{% endraw %}
+
+### 曹老师的蛋糕好漂亮哇😘😘 
+{%raw %}
+
+<div style="position: relative; width:100%; height: 0; padding-bottom:75%; "><iframe src="//player.bilibili.com/player.html?bvid=BV1CM4y1t77F&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
+style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>
+{% endraw %}
+
+### 惊喜
+{%raw %}
+
+<div style="position: relative; width:100%; height: 0; padding-bottom:75%; "><iframe src="//player.bilibili.com/player.html?bvid=BV1HV4y1k7Qo&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
+style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>
+{% endraw %}
+
+{%raw %}
+
+<div style="position: relative; width:100%; height: 0; padding-bottom:75%; "><iframe src="//player.bilibili.com/player.html?bvid=BV1Js4y1M7ud&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
+style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>
+{% endraw %}
+{%raw %}
+
+<div style="position: relative; width:100%; height: 0; padding-bottom:75%; "><iframe src="//player.bilibili.com/player.html?bvid=BV1Js4y1M7ud&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
 style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>
 {% endraw %}
 
@@ -34,6 +63,11 @@ style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe
 ![](https://s2.loli.net/2023/03/16/ntdz82xirI4OvT6.jpg)
 
 ### 百日誓师
+{%raw %}
+
+<div style="position: relative; width:100%; height: 0; padding-bottom:75%; "><iframe src="//player.bilibili.com/player.html?bvid=BV18g4y1F7MT&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
+style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>
+{% endraw %}
 
 ![](https://s2.loli.net/2023/03/17/YskKLDArNZ5XIOU.jpg)
 ![](https://s2.loli.net/2023/03/17/gSt4LyNpkqVMzjB.jpg)
@@ -70,6 +104,23 @@ style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe
 ![jpg](https://s2.loli.net/2023/03/17/rvOqMKxRufoUG1h.jpg)
 ![jpg](https://s2.loli.net/2023/03/17/yj5aXPY174swRLW.jpg)
 ![](https://s1.ax1x.com/2023/03/17/ppGEcuj.jpg)
+
+### 蛋糕😊😊
+[![p9WBNWt.jpg](https://s1.ax1x.com/2023/05/17/p9WBNWt.jpg)](https://imgse.com/i/p9WBNWt)
+[![p9WB3ee.jpg](https://s1.ax1x.com/2023/05/17/p9WB3ee.jpg)](https://imgse.com/i/p9WB3ee)
+[![p9WBEdJ.jpg](https://s1.ax1x.com/2023/05/17/p9WBEdJ.jpg)](https://imgse.com/i/p9WBEdJ)
+[![p9WBdQf.jpg](https://s1.ax1x.com/2023/05/17/p9WBdQf.jpg)](https://imgse.com/i/p9WBdQf)
+[![p9WBYFA.jpg](https://s1.ax1x.com/2023/05/17/p9WBYFA.jpg)](https://imgse.com/i/p9WBYFA)
+[![p9WBtJI.jpg](https://s1.ax1x.com/2023/05/17/p9WBtJI.jpg)](https://imgse.com/i/p9WBtJI)
+[![p9WBrwQ.jpg](https://s1.ax1x.com/2023/05/17/p9WBrwQ.jpg)](https://imgse.com/i/p9WBrwQ)
+[![p9WB0OS.jpg](https://s1.ax1x.com/2023/05/17/p9WB0OS.jpg)](https://imgse.com/i/p9WB0OS)
+[![p9WBDeg.jpg](https://s1.ax1x.com/2023/05/17/p9WBDeg.jpg)](https://imgse.com/i/p9WBDeg)
+[![p9WB6Fs.jpg](https://s1.ax1x.com/2023/05/17/p9WB6Fs.jpg)](https://imgse.com/i/p9WB6Fs)
+[![p9WBRS0.jpg](https://s1.ax1x.com/2023/05/17/p9WBRS0.jpg)](https://imgse.com/i/p9WBRS0)
+[![p9WBgWq.jpg](https://s1.ax1x.com/2023/05/17/p9WBgWq.jpg)](https://imgse.com/i/p9WBgWq)
+[![p9WBWlV.jpg](https://s1.ax1x.com/2023/05/17/p9WBWlV.jpg)](https://imgse.com/i/p9WBWlV)
+[![p9WBfyT.jpg](https://s1.ax1x.com/2023/05/17/p9WBfyT.jpg)](https://imgse.com/i/p9WBfyT)
+[![p9WBhOU.jpg](https://s1.ax1x.com/2023/05/17/p9WBhOU.jpg)](https://imgse.com/i/p9WBhOU)
 [![ppGEcuj.jpg](https://s1.ax1x.com/2023/03/17/ppGEcuj.jpg)](https://imgse.com/i/ppGEcuj)
 [![ppGEyvQ.jpg](https://s1.ax1x.com/2023/03/17/ppGEyvQ.jpg)](https://imgse.com/i/ppGEyvQ)
 [![ppGEsgg.jpg](https://s1.ax1x.com/2023/03/17/ppGEsgg.jpg)](https://imgse.com/i/ppGEsgg)
@@ -116,13 +167,31 @@ style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe
 [![pp8Y75D.jpg](https://s1.ax1x.com/2023/03/16/pp8Y75D.jpg)](https://imgse.com/i/pp8Y75D)
 [![pp8YTUO.jpg](https://s1.ax1x.com/2023/03/16/pp8YTUO.jpg)](https://imgse.com/i/pp8YTUO)
 [![pp8YoVK.jpg](https://s1.ax1x.com/2023/03/16/pp8YoVK.jpg)](https://imgse.com/i/pp8YoVK)
-
+![微信图片_20230517162634.jpg](https://s2.loli.net/2023/05/17/xuZ5mt3degEvaKn.jpg)
+![微信图片_20230517162628.jpg](https://s2.loli.net/2023/05/17/bfUeIBrpZQgH1l4.jpg)
+![微信图片_20230517162523.jpg](https://s2.loli.net/2023/05/17/IjzZYWChFVbKNPn.jpg)
+![微信图片_20230517162508.jpg](https://s2.loli.net/2023/05/17/WUpCxYcMX4KVyuP.jpg)
+![微信图片_20230517162527.jpg](https://s2.loli.net/2023/05/17/Ql5b18ivVzqKudZ.jpg)
+![微信图片_20230517162621.jpg](https://s2.loli.net/2023/05/17/L3H1N8fmYRlrBGO.jpg)
+![微信图片_20230517162858.jpg](https://s2.loli.net/2023/05/17/cBKIOswY9uVnSgz.jpg)
+![微信图片_20230517162309.jpg](https://s2.loli.net/2023/05/17/sq6huWzRwoNUSvV.jpg)
+![微信图片_20230517162642.jpg](https://s2.loli.net/2023/05/17/mDioh3kLrWT4zXC.jpg)
+![微信图片_20230517162555.jpg](https://s2.loli.net/2023/05/17/NdUa4WeRDBkE3mv.jpg)
+![微信图片_20230517162208.jpg](https://s2.loli.net/2023/05/17/OWBhLg8SKvuqbIi.jpg)
 ### 我们的校园
+{%raw %}
+<div style="position: relative; width:100%; height: 0; padding-bottom:75%; "><iframe src="//player.bilibili.com/player.html?bvid=BV1ia4y1u7xU&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
+style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>
+{% endraw %}
 
 ![](https://s2.loli.net/2023/03/16/rLXDSgkVadUItPF.jpg)
 ![](https://s2.loli.net/2023/03/16/xtuK6X5sh1P4BaQ.jpg)
 ![](https://s2.loli.net/2023/03/16/t6L2SYoQAqjBuvC.jpg)
 ![](https://s2.loli.net/2023/03/17/RtabAwUq1Co7gdV.jpg)
+{%raw %}
+<div style="position: relative; width:100%; height: 0; padding-bottom:75%; "><iframe src="//player.bilibili.com/player.html?bvid=BV1Tg4y1V783&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
+style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>
+{% endraw %}
 
 ### 最后是我们全体名单
 
