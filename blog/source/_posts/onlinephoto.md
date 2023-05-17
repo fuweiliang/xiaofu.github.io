@@ -6,10 +6,13 @@ tags: "上线完毕"
 cover: https://s2.loli.net/2023/03/16/t6L2SYoQAqjBuvC.jpg
 ---
 # 曹老师的话
+
 **各位同学：高三我们一起奋斗，一路欢歌笑语，留下了许多难以忘怀的印记。现在你们即将迈进大学，开始你们一段精彩的人生旅程，希望你们能扎扎实实学习，提高自已各方面能力，为展翅高飞作好准备。请谨记英才高三16班是你永远的家。❤**
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5240550&auto=1&height=66"></iframe>
+
 ## 作者的话
+
 **好久不见了大家，想起高中生活中的点点滴滴，现在依然觉得很美好，所以出于对回忆相册的便捷性，于是我把高中电子相册做成了网站，方便大家随时随地的查看电子相册，此网站一经发布上线永久在线！永久免费！可随时更新。虽然耗费较多精力，但是当回忆涌上心头还是很美好的。**
+
 *可以访问新配置的网站*
 1.[fuweiliang.eu.org](fuweiliang.eu.org)
 2.[www.fuweiliang.eu.org](www.fuweiliang.eu.org)
@@ -36,16 +39,6 @@ style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe
 style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>
 {% endraw %}
 
-{%raw %}
-
-<div style="position: relative; width:100%; height: 0; padding-bottom:75%; "><iframe src="//player.bilibili.com/player.html?bvid=BV1Js4y1M7ud&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
-style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>
-{% endraw %}
-{%raw %}
-
-<div style="position: relative; width:100%; height: 0; padding-bottom:75%; "><iframe src="//player.bilibili.com/player.html?bvid=BV1Js4y1M7ud&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
-style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>
-{% endraw %}
 
 ### 然后是我们亲爱的老师们
 
