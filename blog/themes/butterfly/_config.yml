@@ -655,6 +655,10 @@ subtitle:
   # 如果关闭打字效果，subtitle只会现示sub的第一行文字
   sub:
   - 人生虽曲折，记得活出精彩。
+  - 时光如水，总是无言，爱成了思念，情成了牵绊，每一次想你，都会湿了眼眶，你在远方，想起从前，是不是也会被回忆染湿了双眼？
+  - 这个春天，我会等你，你不回来，我不会远离，爱一个人，其实就是想和你在一起，我希望我们还能像从前那样，牵着手走在春天。
+  - 时间让我们忘了很多东西，可是有你的回忆，永远都是那么清晰，习惯了想你，习惯了等你，也习惯了把你放在梦里。
+  - 执笔抒写一个深情的故事，故事里总是会藏着你，入了心的人，难以忘记，藏在心里，藏在梦里。我会等！
   - 既然选择远方，当不负青春，砥砺前行
   - 在我们的经验中，一个人年轻时尚诺再某个方面遇到了强烈的精神刺激日后在这个方面必然会有强烈的反弹，
   - 换句话说，年轻时受些刺激未尝不是一件好事，因为它会激发人的斗志迫使人快速增长
@@ -976,7 +980,7 @@ inject:
   bottom:
 #    - <div class="aplayer no-destroy" data-id="649149302" data-server="netease" data-type="playlist" data-fixed="true"  data-autoplay="true" data-lrcType="-1" mutex="true"> </div>
 #    底部音乐组件
-    - <div class="aplayer no-destroy" data-id="649149302" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true" data-listfolded="false"  data-preload="none" data-autoplay="true" muted> </div>
+    - <div class="aplayer no-destroy" data-id="5134946597" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true" data-listfolded="false"  data-preload="none" data-autoplay="true" muted> </div>
 #    网站评价组件
     - <div class="surveybyantdv" data-sf-id="64ba5849897900d6" data-sf-mode="popover" data-sf-button-color="#13c2c2" data-sf-text-color="#ffffff" data-sf-button-radius="50" data-sf-button-icon="message-outlined" data-sf-default-open="false" data-sf-allow-repeat-submit="true" data-sf-close-after-submit="true" data-sf-hide-after-submit="false" data-sf-delay-visible="false" data-sf-preload="true" data-sf-width="350px" data-sf-height="350px"></div><script async src="https://aliyuncdn.antdv.com/form/static/embed/runtime.js"></script>
     # - <script src="xxxx"></script>

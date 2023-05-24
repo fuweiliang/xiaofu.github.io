@@ -68,11 +68,11 @@ style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe
 
 ### 元旦汇演
 
-![](https://imgse.com/i/ppt68mV)
-![](https://imgse.com/i/ppt6ckD)
-![](https://imgse.com/i/ppt6GwT)
-![](https://imgse.com/i/ppt6tkF)
-![](https://imgse.com/i/ppt61O0)
+[![ppt6ckD.jpg](https://s1.ax1x.com/2023/03/20/ppt6ckD.jpg)](https://imgse.com/i/ppt6ckD)
+[![ppt6tkF.jpg](https://s1.ax1x.com/2023/03/20/ppt6tkF.jpg)](https://imgse.com/i/ppt6tkF)
+[![ppt6GwT.jpg](https://s1.ax1x.com/2023/03/20/ppt6GwT.jpg)](https://imgse.com/i/ppt6GwT)
+[![ppt68mV.jpg](https://s1.ax1x.com/2023/03/20/ppt68mV.jpg)](https://imgse.com/i/ppt68mV)
+[![ppt61O0.jpg](https://s1.ax1x.com/2023/03/20/ppt61O0.jpg)](https://imgse.com/i/ppt61O0)
 
 ### 我们全体的照片
 
