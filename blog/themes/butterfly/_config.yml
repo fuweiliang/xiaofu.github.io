@@ -16,7 +16,7 @@ menu:
     友链: /links/ || fa fa-link
   留言板: /comment/ || fa fa-paper-plane
   #留言板: /messageboard/ || fa fa-paper-plane
-  关于付伟亮: /about/ || fas fa-heart
+  关于笔者: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -761,7 +761,7 @@ aside:
       link: mailto:2194094699@qq.com
   card_announcement:
     enable: true
-    content: 首页->右角三条杠->底下关于作者,欢迎大家~
+    content: 右上角关于我有好东西,欢迎大家~
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -975,8 +975,8 @@ css_prefix: true
 inject:
   head:
     - <link rel="stylesheet" href="/css/backgound.css">
-    - <link rel="stylesheet" href="/css/custom.css"  media="defer" onload="this.media='all'">
-#    media="defer" onload="this.media='all'"是异步加载配置项，确保自定义样式会在页面加载完成后才继续渲染
+#    - '<style type="http://rubuudw31.hd-bkt.clouddn.com/Aplayer.min.css?e=1683528091&token=f4Kd53fYvvuhbOCNpcdx4vvxBEulNk8AoD-iWyps:Uc9P-TWdm1B1ZP1ZZz19BP49hgs=">#toggle-sidebar {bottom: 80px}</style>'
+  #    - <link rel="stylesheet" href="/css/cursor.css">
   bottom:
 #    - <div class="aplayer no-destroy" data-id="649149302" data-server="netease" data-type="playlist" data-fixed="true"  data-autoplay="true" data-lrcType="-1" mutex="true"> </div>
 #    底部音乐组件
