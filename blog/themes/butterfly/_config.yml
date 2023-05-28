@@ -975,8 +975,8 @@ css_prefix: true
 inject:
   head:
     - <link rel="stylesheet" href="/css/backgound.css">
-#    - '<style type="http://rubuudw31.hd-bkt.clouddn.com/Aplayer.min.css?e=1683528091&token=f4Kd53fYvvuhbOCNpcdx4vvxBEulNk8AoD-iWyps:Uc9P-TWdm1B1ZP1ZZz19BP49hgs=">#toggle-sidebar {bottom: 80px}</style>'
-  #    - <link rel="stylesheet" href="/css/cursor.css">
+    - <link rel="stylesheet" href="/css/custom.css"  media="defer" onload="this.media='all'">
+#    media="defer" onload="this.media='all'"是异步加载配置项，确保自定义样式会在页面加载完成后才继续渲染
   bottom:
 #    - <div class="aplayer no-destroy" data-id="649149302" data-server="netease" data-type="playlist" data-fixed="true"  data-autoplay="true" data-lrcType="-1" mutex="true"> </div>
 #    底部音乐组件
