@@ -978,9 +978,9 @@ inject:
     - <link rel="stylesheet" href="/css/custom.css"  media="defer" onload="this.media='all'">
 #    media="defer" onload="this.media='all'"是异步加载配置项，确保自定义样式会在页面加载完成后才继续渲染
   bottom:
-#    - <div class="aplayer no-destroy" data-id="649149302" data-server="netease" data-type="playlist" data-fixed="true"  data-autoplay="true" data-lrcType="-1" mutex="true"> </div>
+    - <div class="aplayer no-destroy" data-id="5134946597" data-server="netease" data-type="playlist" data-fixed="true"  data-autoplay="true" data-lrcType="-1" mutex="true"> </div>
 #    底部音乐组件
-    - <div class="aplayer no-destroy" data-id="5134946597" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true" data-listfolded="false"  data-preload="none" data-autoplay="true" muted> </div>
+#    - <div class="aplayer no-destroy" data-id="5134946597" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true" data-listfolded="false"  data-preload="none" data-autoplay="true" muted> </div>
 #    网站评价组件
     - <div class="surveybyantdv" data-sf-id="64ba5849897900d6" data-sf-mode="popover" data-sf-button-color="#13c2c2" data-sf-text-color="#ffffff" data-sf-button-radius="50" data-sf-button-icon="message-outlined" data-sf-default-open="false" data-sf-allow-repeat-submit="true" data-sf-close-after-submit="true" data-sf-hide-after-submit="false" data-sf-delay-visible="false" data-sf-preload="true" data-sf-width="350px" data-sf-height="350px"></div><script async src="https://aliyuncdn.antdv.com/form/static/embed/runtime.js"></script>
     # - <script src="xxxx"></script>
@@ -1051,8 +1051,8 @@ CDN:
   # flickr_justified_gallery_css:
 #   aplayer_css: http://rubuudw31.hd-bkt.clouddn.com/Aplayer.min.css?e=1683528759&token=f4Kd53fYvvuhbOCNpcdx4vvxBEulNk8AoD-iWyps:f5JNwws-JBuJBN6-EtmsS5y2CH8=
 #   aplayer_css: http://rubuudw31.hd-bkt.clouddn.com/Aplayer.min.css?e=1683529014&token=f4Kd53fYvvuhbOCNpcdx4vvxBEulNk8AoD-iWyps:yXrkzsvCHyEGpGJjNG-_vTADJBc=
-#   aplayer_js: https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js
-#   meting_js: https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js
+  #  aplayer_js: https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js
+  #  meting_js: https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js
   # prismjs_js:
   # prismjs_lineNumber_js:
   # prismjs_autoloader:
