@@ -15,7 +15,6 @@ cover: https://s1.ax1x.com/2023/03/17/ppG4U9e.jpg
 几个月的时间里，我攒够了上大学的学费，这让我感到非常的欣慰和开心。虽然我知道这笔钱只够我读一年，但是我决定，我一定要好好学习，争取拿到奖学金，让自己能够继续完成学业。
 
 最后,我知道，这只是我人生中的一个小小的阶段，但是，我相信，这个经历会让我更加坚强，更加勇敢，让我能够面对未来的挑战。</a>
-
 **全部图片来自:[https://postimg.cc/gallery/7y7ZhNn](https://postimg.cc/gallery/7y7ZhNn)**
 [![ppJUV4f.jpg](https://s1.ax1x.com/2023/03/18/ppJUV4f.jpg)](https://imgse.com/i/ppJUV4f)
 [![ppJUEUP.jpg](https://s1.ax1x.com/2023/03/18/ppJUEUP.jpg)](https://imgse.com/i/ppJUEUP)
