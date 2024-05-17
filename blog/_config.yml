@@ -113,7 +113,7 @@ deploy:
   type: git
   repo: https://github.com/fuweiliang/fuweiliang.github.io.git
   root: git@github.com:fuweiliang/fuweiliang.github.io.git
-  branch: master
+  branch: myblog
 #  如果出现发布需要登陆GITHUB账号那就是密钥要重新生成和授权了，因为过了·30天有效期
 #到github把密钥重新生成一下
 #然后再次发布用户名为fuweiliang密码就是刚才复制下来的密钥然后就可以成功发布了
