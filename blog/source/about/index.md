@@ -23,307 +23,168 @@ date: 2023-03-23 18:53:50
   </div>
 
 <style>
+:root {
+  --resume-bg: #f3f6fb;
+  --resume-card: #ffffff;
+  --resume-text: #1f2937;
+  --resume-muted: #64748b;
+  --resume-primary: #2563eb;
+  --resume-primary-soft: #dbeafe;
+  --resume-border: #e2e8f0;
+  --resume-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+}
+
 .resume-container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 2rem;
-  font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  max-width: 1000px;
+  margin: 0 auto 2rem;
+  padding: 2.2rem;
+  font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+  background: radial-gradient(circle at 0% 0%, #eff6ff 0, #f8fafc 38%, #f8fafc 100%);
+  border: 1px solid var(--resume-border);
+  border-radius: 20px;
+  box-shadow: var(--resume-shadow);
 }
 
 .resume-header {
   text-align: center;
-  margin-bottom: 3rem;
-  animation: fadeIn 1s ease-in;
-  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  background: linear-gradient(140deg, #ffffff 0%, #eff6ff 100%);
   padding: 2rem;
-  border-radius: 12px;
+  border-radius: 16px;
+  border: 1px solid #dbeafe;
+  animation: fadeIn 0.8s ease-in;
 }
 
 .header-content {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.2rem;
 }
 
 .name {
-  font-size: 2.8rem;
-  color: #2c3e50;
-  margin-bottom: 0.5rem;
-  font-weight: bold;
+  margin: 0 0 0.6rem;
+  font-size: 2.6rem;
+  line-height: 1.15;
+  color: #0f172a;
+  letter-spacing: 0.02em;
 }
 
 .title {
-  font-size: 1.8rem;
-  color: #34495e;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.2rem;
+  font-size: 1.25rem;
+  color: #334155;
+  font-weight: 600;
 }
 
 .highlight-badges {
   display: flex;
   justify-content: center;
-  gap: 1rem;
   flex-wrap: wrap;
+  gap: 0.75rem;
 }
 
 .highlight-badge {
-  background: #3498db;
-  color: white;
-  padding: 0.6rem 1.2rem;
-  border-radius: 25px;
-  font-size: 1rem;
-  font-weight: 500;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  display: inline-flex;
+  align-items: center;
+  padding: 0.45rem 0.95rem;
+  border-radius: 999px;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: #1e3a8a;
+  background: var(--resume-primary-soft);
+  border: 1px solid #bfdbfe;
 }
 
 .contact-info {
   display: flex;
   justify-content: center;
-  gap: 2rem;
+  flex-wrap: wrap;
+  gap: 1.2rem;
   margin-top: 1rem;
 }
 
 .contact-item {
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
-  color: #7f8c8d;
-  font-size: 1.1rem;
+  gap: 0.45rem;
+  color: var(--resume-muted);
+  font-size: 0.98rem;
+  background: #ffffff;
+  border: 1px solid var(--resume-border);
+  border-radius: 999px;
+  padding: 0.35rem 0.85rem;
 }
 
-.core-advantages {
-  margin-bottom: 4rem;
+.resume-main {
+  max-width: 1000px;
+  margin: 2.2rem auto 0;
+  padding: 2.2rem;
+  font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+  color: var(--resume-text);
+  background: var(--resume-card);
+  border: 1px solid var(--resume-border);
+  border-radius: 20px;
+  box-shadow: var(--resume-shadow);
 }
 
-.advantages-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
-}
-
-.advantage-card {
-  background: white;
-  padding: 2rem;
-  border-radius: 12px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-  text-align: center;
-  transition: transform 0.3s ease;
-}
-
-.advantage-card:hover {
-  transform: translateY(-5px);
-}
-
-.advantage-icon {
-  font-size: 2.5rem;
-  color: #3498db;
-  margin-bottom: 1rem;
-}
-
-.advantage-card h3 {
-  color: #2c3e50;
-  margin-bottom: 1rem;
-  font-size: 1.3rem;
-}
-
-.advantage-card p {
-  color: #7f8c8d;
-  line-height: 1.6;
-}
-
-.resume-section {
-  margin-bottom: 4rem;
-  animation: slideUp 0.8s ease-out;
-}
-
-.resume-section h2 {
-  color: #2c3e50;
-  border-bottom: 3px solid #3498db;
-  padding-bottom: 0.8rem;
-  margin-bottom: 2rem;
-  font-size: 1.8rem;
-}
-
-.skills-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 2rem;
-}
-
-.skill-card {
-  background: white;
-  padding: 1.8rem;
-  border-radius: 12px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  transition: transform 0.3s ease;
-}
-
-.skill-card:hover {
-  transform: translateY(-5px);
-}
-
-.skill-card h3 {
-  color: #2c3e50;
-  margin-bottom: 1.2rem;
-  font-size: 1.3rem;
-  display: flex;
-  align-items: center;
-  gap: 0.8rem;
-}
-
-.skill-card ul {
-  list-style: none;
-  padding: 0;
-}
-
-.skill-card li {
-  margin-bottom: 0.8rem;
-  color: #7f8c8d;
-  padding-left: 1.5rem;
+.resume-main h1,
+.resume-main h2,
+.resume-main h3 {
   position: relative;
+  color: #0f172a;
+  line-height: 1.3;
 }
 
-.skill-card li:before {
-  content: "•";
-  color: #3498db;
-  position: absolute;
-  left: 0;
+.resume-main h1 {
+  margin-top: 0;
+  margin-bottom: 1.4rem;
+  font-size: 2rem;
 }
 
-.projects-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-}
-
-.project-card {
-  background: white;
-  border-radius: 12px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-  overflow: hidden;
-  transition: transform 0.3s ease;
-}
-
-.project-card:hover {
-  transform: translateY(-5px);
-}
-
-.project-header {
-  background: #f8f9fa;
-  padding: 1.5rem;
-  border-bottom: 1px solid #e9ecef;
-}
-
-.project-header h3 {
-  color: #2c3e50;
-  margin-bottom: 0.8rem;
-  font-size: 1.4rem;
-}
-
-.project-tech {
-  color: #7f8c8d;
-  font-size: 0.9rem;
-}
-
-.project-content {
-  padding: 1.5rem;
-}
-
-.project-intro {
-  margin-bottom: 1.5rem;
-}
-
-.project-intro h4 {
-  color: #2c3e50;
-  margin-bottom: 0.8rem;
-  font-size: 1.2rem;
-}
-
-.project-intro p {
-  color: #7f8c8d;
-  line-height: 1.6;
-}
-
-.project-achievements h4 {
-  color: #2c3e50;
+.resume-main h2 {
+  margin-top: 2.2rem;
   margin-bottom: 1rem;
-  font-size: 1.2rem;
+  padding-bottom: 0.5rem;
+  font-size: 1.45rem;
+  border-bottom: 2px solid #e2e8f0;
 }
 
-.project-achievements ul {
-  list-style: none;
-  padding: 0;
+.resume-main h3 {
+  margin-top: 1.6rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.14rem;
+  color: #1e3a8a;
 }
 
-.project-achievements li {
+.resume-main p,
+.resume-main li {
+  line-height: 1.8;
+  color: #334155;
+}
+
+.resume-main ul,
+.resume-main ol {
+  margin-top: 0.4rem;
   margin-bottom: 1rem;
-  color: #7f8c8d;
-  line-height: 1.6;
+  padding-left: 1.3rem;
 }
 
-.project-achievements strong {
-  color: #2c3e50;
+.resume-main li {
+  margin-bottom: 0.4rem;
 }
 
-.timeline {
-  position: relative;
-  padding-left: 2rem;
+.resume-main hr {
+  border: 0;
+  height: 1px;
+  margin: 1.8rem 0;
+  background: linear-gradient(to right, rgba(37, 99, 235, 0), rgba(37, 99, 235, 0.4), rgba(37, 99, 235, 0));
 }
 
-.timeline-item {
-  position: relative;
-  margin-bottom: 2rem;
-  background: white;
-  padding: 1.5rem;
-  border-radius: 12px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-.timeline-date {
-  color: #3498db;
-  font-weight: bold;
-  margin-bottom: 0.8rem;
-  font-size: 1.1rem;
-}
-
-.timeline-content h3 {
-  color: #2c3e50;
-  margin-bottom: 0.5rem;
-  font-size: 1.3rem;
-}
-
-.position {
-  color: #7f8c8d;
-  margin-bottom: 1rem;
-  font-size: 1.1rem;
-}
-
-.timeline-content ul {
-  list-style: none;
-  padding: 0;
-}
-
-.timeline-content li {
-  margin-bottom: 0.8rem;
-  color: #7f8c8d;
-  padding-left: 1.5rem;
-  position: relative;
-}
-
-.timeline-content li:before {
-  content: "•";
-  color: #3498db;
-  position: absolute;
-  left: 0;
+.resume-main strong {
+  color: #0f172a;
 }
 
 @keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-@keyframes slideUp {
   from {
     opacity: 0;
-    transform: translateY(20px);
+    transform: translateY(8px);
   }
   to {
     opacity: 1;
@@ -332,39 +193,33 @@ date: 2023-03-23 18:53:50
 }
 
 @media (max-width: 768px) {
-  .resume-header {
-    padding: 1.5rem;
+  .resume-container,
+  .resume-main {
+    border-radius: 14px;
+    padding: 1.35rem;
   }
 
   .name {
-    font-size: 2.2rem;
+    font-size: 2rem;
   }
 
   .title {
-    font-size: 1.4rem;
+    font-size: 1.05rem;
   }
 
   .contact-info {
     flex-direction: column;
-    gap: 0.8rem;
+    align-items: center;
+    gap: 0.6rem;
   }
 
-  .highlight-badges {
-    gap: 0.8rem;
+  .resume-main h1 {
+    font-size: 1.7rem;
   }
 
-  .highlight-badge {
-    font-size: 0.9rem;
-    padding: 0.5rem 1rem;
-  }
-
-  .skills-grid,
-  .projects-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .advantage-card {
-    padding: 1.5rem;
+  .resume-main h2 {
+    font-size: 1.3rem;
+    margin-top: 1.9rem;
   }
 }
 </style>
@@ -390,6 +245,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 </div>
 
+<div class="resume-main">
 
 # 个人简历
 
@@ -574,3 +430,5 @@ WMS 系统采用微服务架构，通过 Nacos 进行微服务治理，RabbitMQ 
 同时持续关注 AI 技术在研发和业务系统中的应用，已在项目实践中使用 Cursor、Claude CLI、Skills、Agents、Dify、n8n、Coze 等工具，结合 Vibe Coding 协作模式提升开发效率。
 
 同时也是 LINUX DO 的成员。
+
+</div>
