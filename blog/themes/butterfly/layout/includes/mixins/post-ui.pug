@@ -126,6 +126,10 @@ mixin postUI(posts)
             - let expert = content.substring(0, theme.index_post_content.length) 
             - content.length > theme.index_post_content.length ? expert += ' ...' : ''
             .content!= expert
+        .article-actions
+          a.article-read-more(href=url_for(link) title=title)
+            span 阅读全文
+            i.fas.fa-arrow-right
 
     if theme.ad && theme.ad.index
       if (index + 1) % 3 == 0

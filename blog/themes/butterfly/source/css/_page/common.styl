@@ -1,3 +1,19 @@
+#content-inner,
+.layout
+  --content-surface-1: linear-gradient(135deg, rgba(255, 255, 255, .94), rgba(246, 249, 255, .98))
+  --content-surface-2: linear-gradient(145deg, rgba(255, 255, 255, .92), rgba(239, 245, 255, .96))
+  --content-card-border: rgba(108, 145, 197, .12)
+  --content-card-shadow: 0 24px 60px rgba(27, 55, 92, .12)
+  --content-card-shadow-hover: 0 30px 75px rgba(27, 55, 92, .18)
+  --content-chip-bg: rgba(73, 177, 245, .10)
+  --content-chip-text: #4f627a
+  --content-copy: #5b6678
+  --content-title: #172033
+  --content-divider: rgba(128, 150, 177, .18)
+  --content-glow: radial-gradient(circle at top right, rgba(73, 177, 245, .18), transparent 42%)
+  --content-radius-lg: 28px
+  --content-radius-md: 20px
+
 #body-wrap
   display: flex
   flex-direction: column
@@ -24,9 +40,14 @@
     @extend .cardHover
     align-self: flex-start
     padding: 50px 40px
+    border: 1px solid var(--content-card-border)
+    border-radius: var(--content-radius-lg)
+    background: var(--content-surface-1)
+    box-shadow: var(--content-card-shadow)
 
     +maxWidth768()
       padding: 36px 14px
+      border-radius: 22px
 
   & > div:first-child
     width: 74%
